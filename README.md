@@ -19,7 +19,7 @@ Modules used in the project
  * Max 30105
 
 we have written code in both c++ and python..
-frontend using mathworks software Thing Speak.
+frontend using mathworks software Thing SpeakIOT.
 
 Backend using Django rest-framework
 
