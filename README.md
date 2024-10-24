@@ -24,6 +24,7 @@ frontend using mathworks software Thing SpeakIOT.
 Backend using Django rest-framework
 
 The IOT  modules design has been done by Keerthibalan
+
 Cad models,Frontend and backend has been by Shivash
 
 Team Nothing had been participated in Designation24 at rec and have received awards for the best societal impact project
